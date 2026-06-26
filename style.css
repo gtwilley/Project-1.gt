@@ -1,0 +1,29 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e5decc;
+    font-family: Garamond;
+    color: #050101;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+h1{
+    color: #485681;
+    text-align: left;
+    font-size: 2.5;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: #485681;
+    text-align: left;
+    font-size: 2.0;
+    margin-bottom: 20px;
+}
+
+
