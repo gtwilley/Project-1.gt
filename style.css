@@ -1,14 +1,15 @@
-
-
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+div {
+    width: 200px;
+    height: 200px; 
+    background-color: #e5decc;
+    border: 3px solid #f19f70;
+    padding: 20px;
+    margin: 20px;
+} 
 
 body{
     background-color: #e5decc;
-    font-family: Garamond;
+    font-family: Garamond, serif;
     color: #050101;
     line-height: 1.5;
     padding: 20px;
